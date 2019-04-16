@@ -18,3 +18,6 @@ __Tutorials__
 4. [Part 4](https://www.youtube.com/watch?v=1b0v46Biwa8)
 5. [Part 5](https://www.youtube.com/watch?v=LPdYmpZE5VQ)
 6. [Part 6](https://www.youtube.com/watch?v=OTyGEzxvK7k)
+
+## Pycharm
+[Soft98.ir](https://soft98.ir/software/programming/1652-pycharm.html)
