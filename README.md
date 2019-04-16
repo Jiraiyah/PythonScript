@@ -1,8 +1,9 @@
 # PythonScript
 
-## Anaconda
+## Anaconda 3-5.3.1
 
 [Anaconda](https://www.anaconda.com)
+[Archive](https://repo.anaconda.com/archive/)
 1. conda update conda
 2. conda update --all
 3. conda create --name __YOUR_ENVIRONMENT_NAME__ python=3.7
@@ -21,3 +22,7 @@ __Tutorials__
 
 ## Pycharm
 [Soft98.ir](https://soft98.ir/software/programming/1652-pycharm.html)
+
+
+## Jupyter Alternative
+[Colab - Google](https://colab.research.google.com)
