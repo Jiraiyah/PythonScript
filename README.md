@@ -3,7 +3,6 @@
 ## Anaconda 3-2019.03
 
 [Anaconda](https://www.anaconda.com)
-
 [Archive](https://repo.anaconda.com/archive/)
 1. conda update conda
 2. conda update --all
