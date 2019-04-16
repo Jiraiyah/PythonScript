@@ -28,3 +28,6 @@ __Tutorials__
 
 ## Jupyter Alternative
 [Colab - Google](https://colab.research.google.com)
+
+## Good Syntax Reference
+[w3schools](https://www.w3schools.com/python/default.asp)
