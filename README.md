@@ -8,7 +8,8 @@
 
 1. conda update conda
 2. conda update --all
-3. conda create --name __YOUR_ENVIRONMENT_NAME__ python=3.7
+3. conada install python=3.6
+4. conda create --name __YOUR_ENVIRONMENT_NAME__ python=3.7
 
 ## Source Control
 [SourceTree](https://www.sourcetreeapp.com/)
